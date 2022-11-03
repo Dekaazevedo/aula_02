@@ -16,6 +16,6 @@ funcao inicio()
 	   }
 
          escreva("\nFinal do programa!")
-	   
+	   teste
     }
 }
