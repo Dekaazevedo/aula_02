@@ -1,0 +1,21 @@
+funcao inicio()
+    {inteiro numero
+		
+		escreva("Digite um número: ")
+		leia(numero)
+		
+         enquanto (numero != -999) {
+
+         	para (inteiro cont= 1; cont <= numero; cont ++) {
+          	se (numero % cont == 0)
+          	escreva(" O divisor é ", cont, "\n")
+          }
+
+         escreva("\nDigite um novo número: ")
+	    leia(numero)
+	   }
+
+         escreva("\nFinal do programa!")
+	   
+    }
+}
