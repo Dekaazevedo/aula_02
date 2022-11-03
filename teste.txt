@@ -1,0 +1,6 @@
+se (tipo == 'A' ou tipo=='a'){
+			
+		consumo = km/12
+			
+		escreva("O consumo é: ",consumo," litros.")}teste
+        
